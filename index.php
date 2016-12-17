@@ -41,7 +41,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="container">
 	  <div class="header-main">
 	     <div class="logo">
-		    <h1><a href="index.html">SOLAR SAMRAT</a></h1>
+		    <h1><a href="index.php">SOLAR SAMRAT</a></h1>
 		 </div>
 		 <div class="top-nav">
 		 	 <span class="menu"> <img src="images/icon.png"></span>
